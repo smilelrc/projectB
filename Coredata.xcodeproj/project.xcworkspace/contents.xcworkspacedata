@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Coredata/Student.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Coredata/Student.m">
+   </FileRef>
+   <FileRef
+      location = "self:Coredata.xcodeproj">
+   </FileRef>
+</Workspace>
