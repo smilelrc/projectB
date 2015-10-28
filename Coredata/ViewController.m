@@ -25,6 +25,14 @@
 {
     [super viewDidLoad];
     
+    
+    NSLog(@"111111111111");
+    NSLog(@"111111111111");
+    NSLog(@"111111111111");
+    NSLog(@"111111111111");
+    NSLog(@"111111111111");
+    
+    
     //获取到 appDelegate 中的临时数据库
     AppDelegate *appDelegate = [UIApplication sharedApplication].delegate;
     self.context = appDelegate.managedObjectContext;
